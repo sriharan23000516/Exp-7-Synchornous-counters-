@@ -1,7 +1,7 @@
 # Experiment-06 Synchornous counters up counter
-### AIM: To implement 4 bit up and down counters and validate  functionality.
 ### Name: SRIHARAN J V
 ### Register number: 23000516
+### AIM: To implement 4 bit up and down counters and validate  functionality.
 ##### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ##### SOFTWARE REQUIRED:   Quartus prime
 ### THEORY 
